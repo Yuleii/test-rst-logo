@@ -1,11 +1,8 @@
-
- 
-.. image:: econsa_logo_no_type_RGB.svg
-   :width: 30px
-   :align: left
-econsa
-
-======
+.. |logo| image:: econsa_logo_no_type_RGB.svg
+   :height: 27px
+   
+|logo| econsa
+==========
     I prefer true but imperfect knowledge, even if it leaves much undetermined and unpredictable, to a pretence of exact knowledge that is likely to be false.
 
     -- Friedrich von Hayek, Nobel Prize Lecture
