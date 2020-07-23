@@ -1,6 +1,6 @@
 .. image:: econsa_logo_no_type_RGB.svg
    :width: 3%
-   :align: left
+   :align: right
    
 econsa
 ======
